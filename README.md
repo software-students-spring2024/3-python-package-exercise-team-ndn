@@ -1,3 +1,5 @@
+[![log github events](https://github.com/software-students-spring2024/3-python-package-exercise-team-ndn/actions/workflows/event-logger.yml/badge.svg)](https://github.com/software-students-spring2024/3-python-package-exercise-team-ndn/actions/workflows/event-logger.yml)
+
 # Geometric Calculator
 
 ## Description
