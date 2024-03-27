@@ -1,4 +1,4 @@
-from ndnGeometryCalc import geoCalc
+from src.ndnGeometryCalc import geoCalc
 
 #Calculating for sphere with radius 5
 sphereV, sphereSA = geoCalc.sphere(5)
