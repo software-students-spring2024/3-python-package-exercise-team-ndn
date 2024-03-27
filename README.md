@@ -65,3 +65,5 @@ geoCalc.cone(4,7)
 [Niket Gautam]()
 
 ## Package Page
+See the `ndnGeometryCalc` on PyPI: [ndnGeometryCalc on PyPI](https://pypi.org/project/ndnGeometryCalc/0.0.1/)
+
