@@ -8,7 +8,7 @@ This package aims to allow its users to seamlessly calculate simple properties o
 
 ### Setting Up
 Ensure you already have pipenv on your machine. Type this into a cmd:
-pipenv install -i https://test.pypi.org/simple/ ndnGeometryCalc
+pipenv install -i https://test.pypi.org/simple/ ndnGeometryCalc == 0.0.1
 
 ### Using the Package
 To import our package, simply include the following line in the program:
