@@ -7,9 +7,9 @@ name = "ndnGeometryCalc"
 description = "This package calculates simple properties of geometric objects such as spheres, rectangular prisms, cylinders, and cones."
 version = "0.0.1"
 authors = [
-  { name="Noah Zhou", email="nz2061@nyu.edu" },
-  { name="Daniel Pang", email="dp3228@nyu.edu" },
-  { name="Niket Gautam", email=ng2489@nyu.edu"}
+  { name = "Noah Zhou", email = "nz2061@nyu.edu" },
+  { name = "Daniel Pang", email = "dp3228@nyu.edu" },
+  { name = "Niket Gautam", email = "ng2489@nyu.edu" }
 ]
 license = { file = "LICENSE" }
 readme = "README.md"
