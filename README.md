@@ -1,4 +1,4 @@
-# Python Package Exercise
+# Geometric Calculator
 
 ## Description
 
